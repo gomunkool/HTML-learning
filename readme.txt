@@ -16,13 +16,15 @@
     </header>
 
 	<nav>
-	<ul>
-		<ol class="selected"><a href="index.html">Home</a></ol>
-		<ol><a href="blog.html">Blog</a></ol>
-		<ol><a href="">Inventions</a></ol>
-		<ol><a href="">Recipes</a></ol>
-		<ol><a href="">Locations</a></ol>
-	</ul>
+	<ol>
+
+		<li class="selected"><a href="index.html">Home</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="">Inventions</a></li>
+		<li><a href="">Recipes</a></li>
+		<li><a href="">Locations</a></li>
+
+	</ol>
 	</nav>
 
 	<div id="tableContainer">
