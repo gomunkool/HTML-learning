@@ -17,11 +17,11 @@
 
 	<nav>
 	<ul>
-		<li class="selected"><a href="index.html">Home</a></li>
-		<li><a href="blog.html">Blog</a></li>
-		<li><a href="">Inventions</a></li>
-		<li><a href="">Recipes</a></li>
-		<li><a href="">Locations</a></li>
+		<lo class="selected"><a href="index.html">Home</a></lo>
+		<lo><a href="blog.html">Blog</a></lo>
+		<lo><a href="">Inventions</a></lo>
+		<lo><a href="">Recipes</a></lo>
+		<lo><a href="">Locations</a></lo>
 	</ul>
 	</nav>
 
